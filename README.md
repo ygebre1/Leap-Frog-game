@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Leap Frog Game! This exciting and engaging game was developed using Android Studio and the Java programming language, making the most of the powerful tools and features available in the Android development environment. It's not just a game; it's a leap into the world of collaborative development, as it was created through the combined efforts of a talented team.
+Welcome to the Leap Frog Game! This exciting and engaging game was developed using Android Studio and Java, making the most of the powerful tools and features available in the Android development environment. It's not just a game; it's a leap into the world of collaborative development, as it was created through the combined efforts of a talented team.
 
 ## Features
 
